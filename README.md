@@ -1,7 +1,7 @@
 
 # 📊 Kız Başına Veri Analizi Bootcamp 2. Bitirme Projesi
 
-Bu proje, **Kız Başına Veri Analizi Bootcamp 2** kapsamında gerçekleştirilmiştir. Amaç; SQL ile veri sorgulama, veri temizleme, modelleme ve Power BI kullanarak görselleştirme yeteneklerini geliştirmektir.
+Bu proje, **Kız Başına Veri Analizi Bootcamp 2** kapsamında gerçekleştirilmiştir. Amaç; SQL ile veri sorgulama, veri temizleme, modelleme ve Power BI kullanarak görselleştirme yeteneklerini geliştirmektir.Bu çalışma, Power BI'da veri görselleştirme sürecine altlık oluşturmak amacıyla hazırlanmış, anlamlı SQL analizlerini içermektedir. Amaç; Power BI’da görselleştirilecek şekilde ülkeler, şehirler, yaş grupları, cinsiyetler ve ürün kategorilerine göre satış, sipariş ve kullanıcı verilerini özetlemektir. Bu sorgular, sunumda grafik, harita ve kart görselleriyle desteklenecek analizlerin altyapısını oluşturur.
 
 ---
 
@@ -83,13 +83,6 @@ Belirli segmentlere özel analiz sunar:
 - **SQL** – Sorgular ve veri hazırlama
 - **DAX** – Yaş, koşullu sütunlar ve özet ölçüler için formüller
 - **Harici CSV Kaynağı** – Şehir-bölge eşleşmeleri
-
----
-
-## 📎 Notlar
-
-- Projede kullanılan tüm veri setleri anonimleştirilmiş ve eğitim amaçlıdır.
-- Power BI dosyasına görseller eklenmiş ve sayfa yönlendirmeleri yapılandırılmıştır.
 
 ---
 
