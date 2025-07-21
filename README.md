@@ -43,7 +43,7 @@ Kullanıcılara genel performans metriklerini sunar. Aşağıdaki öğeler bu sa
 - Müşteri Başına Satış Adedi  
 - Ortalama Sipariş Tutarı
 
-> 📌 Görsel Örnek: *(Buraya Özet Sayfa görseli ekleyebilirsiniz.)*
+> 📌 ![Özet Sayfa Görseli](images/ozet-sayfa.png)
 
 ---
 
@@ -62,7 +62,7 @@ Bu sayfa, kullanıcı profiline dair analizleri içermektedir:
   - 36–55 → Orta Yaş  
   - 55+ → Yaşlı  
 
-> 📌 Görsel Örnek: *(Buraya müşteri perspektifi sayfa görseli ekleyebilirsiniz.)*
+> 📌 ![Müşteri Perspektifi Görseli](images/musteri-perspektifi.png)
 
 ---
 
@@ -73,7 +73,7 @@ Belirli segmentlere özel analiz sunar:
 - **İstanbul’da Yaşayan Genç Müşterilerin Kategorilere Göre Cirosu**  
   > Ağaç haritası görseli ile sunulmuştur. `ANAKATEGORI` baz alınmıştır.
 
-> 📌 Görsel Örnek: *(Buraya kategori perspektifi sayfa görseli ekleyebilirsiniz.)*
+> 📌 ![Kategori Perspektifi Görseli](images/kategori-perspektifi.png)
 
 ---
 
